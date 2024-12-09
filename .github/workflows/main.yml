@@ -3,7 +3,7 @@ name: Merge Test to Master
 on:
   push:
     branches:
-      - *
+      - "*"
 
 jobs:
   merge:
